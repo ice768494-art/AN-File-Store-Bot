@@ -2,7 +2,7 @@
     {
         "session": "ses",
         "token": "9234585657:AAF4QB1upW3vEkHrWv2axj35UEOyAb0Axzo",
-        "api_id": "34955554",
+        "api_id": 34955554,
         "api_hash": "756f6e123be64a56de1b136ae7e55150",
         "workers": 8,
         "db_uri": "mongodb+srv://Shinchan:<SaranxSarvika>@cluster0.ncezaxp.mongodb.net/",
