@@ -8,7 +8,7 @@
         "db_uri": "mongodb+srv://Shinchan:<SaranxSarvika>@cluster0.ncezaxp.mongodb.net/",
         "db_name": "AnimeBot",
         "fsubs": [[-1002942915805,true,0],[-1003923093207,true,0],[-1003596036486,true,0],[-1002949974097,true,0]],
-        "db": null,
+        "db": -1003904345887,
         "auto_del": 600,
         "messages": {
             "START": "<blockquote expandable> Hi Friends I Am an Advance File Store bot of @anime_warrior_tamil</blockquote>",
