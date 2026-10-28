@@ -1,0 +1,8 @@
+aiohttp
+dnspython
+pyrofork==2.3.64
+humanize
+psutil
+motor
+markdown
+TgCrypto
