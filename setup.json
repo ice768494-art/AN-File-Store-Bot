@@ -7,7 +7,7 @@
         "workers": 8,
         "db_uri": "mongodb+srv://Shinchan:<SaranxSarvika>@cluster0.ncezaxp.mongodb.net/",
         "db_name": "AnimeBot",
-        "fsubs": [[-1003996040585,true,0]]
+        "fsubs": [[-1003996040585,true,0]],
         "db": -1003904345887,
         "auto_del": 600,
         "messages": {
